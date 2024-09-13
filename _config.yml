@@ -15,13 +15,10 @@ minimal: true             # use a dark header
 # Menu
 # Idea: Michael Bieri: Home, dort Begrüssung, Idee der Webseite - About Me: Meine Vorstellung, Skills, Fähigkeiten - CV: CV_MichaelBieri.pdf - Projekte: Auflistung Projekte - Blog: Data Science, alles
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-#- {file: "About me", title: "About me"}
-#- {file: "_docs/CV_MichaelBieri.pdf", title: "CV"}
-#- {file: "Projects", title: "Projects"}
+#- {file: "About.md", title: "About me"}
+#- {url: "_docs/CV_MichaelBieri.pdf", title: "CV"}
+#- {file: "Projects.md", title: "Projects"}
 - {file: "blog.md", title: "Blog"}
-
-# Sicher korrekt
-#  - {file: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:michael.bieri@hotmail.com"}

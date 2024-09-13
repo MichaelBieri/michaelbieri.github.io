@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Blog"
+title: "## Hi there 👋"
 ---
-## Hi there 👋
 I'm Michael from Switzerland, a broadly interested person in technology.
 My journey began with a wordpress homepage, and through the Arduino world,
 I now landed in the world of digitalization and data topics.

@@ -3,38 +3,16 @@ layout: default
 title: "About me" 
 ---
 
-# About Me
-
-I am a passionate Data Science Requirement Engineer with a strong background in data analysis, software engineering, and business requirements gathering. My role focuses on translating complex business needs into actionable data solutions, leveraging advanced analytics and machine learning to drive data-driven decisions.
-
-### Professional Experience
-
-Over the past X years, I have been involved in projects that integrate data science, process digitization, and system optimization. I have a unique skill set that bridges the gap between data scientists, developers, and business stakeholders, ensuring successful project outcomes.
-
-**Key Responsibilities:**
-- Gather and analyze business requirements for data science and machine learning projects.
-- Develop and improve data-driven solutions using **Python**, **R**, **SQL**, and the **Microsoft Power Platform**.
-- Collaborate with stakeholders to define KPIs and metrics to ensure solutions meet business objectives.
-- Ensure end-to-end data integration, quality, and governance for seamless deployments.
-- Lead workshops and presales activities to foster technical innovation and promote advanced data solutions.
+# Short about me
+My journey began with a wordpress homepage and the Arduino world and now landed in the world of digitalization and data topics.
+🔭 I’m currently working on a flutter mobile APP and projects in the world of AI.
+🧠 My soft skills: Curious, empathetic and committed, requirements engineering, classic and agile project management, business analysis
 
 ---
 
-### Key Skills
-
-- **Requirement Engineering:** Translating complex business requirements into actionable data solutions.
-- **Data Science & Analytics:** Machine learning, predictive modeling, statistical analysis.
-- **Tools & Technologies:** Python, R, SQL, TensorFlow, Microsoft Power Platform, Azure.
-- **Communication:** Bridging technical teams and business stakeholders for clear and effective project execution.
-- **Project Management:** Agile methodologies, stakeholder management, and project lifecycle development.
-
----
-
-### Certifications
-- **Certified Data Scientist** (Institution Name)
-- **Microsoft Power Platform Specialist**
-- **Azure Data Engineer Certification**
-- **Certified Requirement Engineering Professional (IREB)**
+### 🔨 Professional Experience
+In my professional career I have 6 years of experience as an electronic and building technology requirements engineer / project manager. 
+I have been involved in projects that integrate data science, IoT and business process digitization. I have a unique skill set that bridges the gap between data scientists, developers, and business stakeholders, ensuring successful project outcomes.
 
 ---
 
@@ -42,3 +20,27 @@ Over the past X years, I have been involved in projects that integrate data scie
 - **Customer Churn Prediction:** Developed a predictive model to identify potential churn customers using machine learning algorithms in Python, increasing retention by 20%.
 - **Process Digitization for a Manufacturing Client:** Implemented a data integration solution using Microsoft Power Platform, streamlining operations and reducing manual efforts by 30%.
 - **Retail Sales Forecasting:** Collaborated with business teams to gather requirements and developed a forecasting model to predict seasonal sales trends.
+
+---
+
+**Key Responsibilities:**
+- Gather and analyze business requirements for data science and machine learning projects.
+- Develop and improve data-driven solutions using **Python**, **R**, **SQL**, and the **Microsoft Power Platform**.
+- Collaborate with stakeholders to define KPIs and metrics to ensure solutions meet business objectives.
+- Ensure end-to-end data integration, quality, and governance for seamless deployments.
+- Lead workshops and training about electronic products.
+
+---
+
+### 🚀Key Skills
+- 🚀 My programming skills: Basics in Python, R, SQL, C++, HTML, CSS, JS, React, Dart
+- 📊 My data analysis and visualization skills: Basics in Pandas, NumPy, Matplotlib, ggplot2, plotfly and power platform
+- 🧮 My calculator skills: hypothesis tests, A/B tests, distributions, Data cleaning and pre-processing, ARIMA, SARIMA
+- 🙌 My big data skills: Basics in Databricks, Hadoop, Spark, Scikit-Learn
+- 🦾 My machine learning skills: Time series analysis and frameworks like learning skills: Tensorflow, keras 
+- 💻 My computer skills: Basics in arduino, networks, protocols, git,  wordpress - industry automation
+- 🙌 My cloud skills: Basics in power platform, Azure, MongoDB, S3, Docker
+  
+---
+
+Alongside my tech pursuits, I also enjoy topics about💡energy and 🌱environment, I play 🎺 and I do sports🧭🚲

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "## Hi there 👋"
+title: "# Hi there 👋"
 ---
 I'm Michael from Switzerland, a broadly interested person in technology.
 My journey began with a wordpress homepage, and through the Arduino world,

@@ -1,8 +1,9 @@
+
 ---
 layout: default
-title: "CV" 
+title: "Curriculum Vitae"
 ---
 
-# Please download my CV
+# My CV
 
-[Download my CV](./assets/CV_MichaelBieri.pdf)
+You can [download my CV here](./_docs/CV_MichaelBieri.pdf).

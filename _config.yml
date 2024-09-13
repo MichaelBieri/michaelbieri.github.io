@@ -22,7 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:michael.bieri@hotmail.com"}
   - {title: Github, icon: github, url: "https://github.com/MichaelBieri"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/michael-bieri-data-science"}
+  - {title: LinkedIn, icon: fab fa-linkedin, url: "https://www.linkedin.com/in/michael-bieri-data-science" }
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

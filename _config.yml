@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Idea: Michael Bieri: Home, dort Begrüssung, Idee der Webseite - About Me: Meine Vorstellung, Skills, Fähigkeiten - CV: CV_MichaelBieri.pdf - Projekte: Auflistung Projekte - Blog: Data Science, alles
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 - {file: "aboutme.md", title: "About me"}
-- {file: "CV.md", title: "CV"}
+- {file: "cv.md", title: "CV"}
 - {file: "projects.html", title: "Projects"}
 - {file: "blog.md", title: "Blog"}
 

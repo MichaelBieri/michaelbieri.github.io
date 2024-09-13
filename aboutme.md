@@ -9,11 +9,6 @@ title: "Blog"
   {% include archive.html title="Posts" %}
 {% endif %}
 
-{% comment %}
-Language: Liquid of Jekyll
-{% endcomment %}
-
-
 # Short about me
 My journey began with a wordpress homepage and the Arduino world and now landed in the world of digitalization and data topics.
 🔭 I’m currently working on a flutter mobile APP and projects in the world of AI.

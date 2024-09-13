@@ -1,7 +1,3 @@
-{% comment %}
-Language: Liquid of Jekyll
-{% endcomment %}
-
 ---
 layout: default
 title: "Blog" 
@@ -12,3 +8,7 @@ title: "Blog"
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
+
+{% comment %}
+Language: Liquid of Jekyll
+{% endcomment %}

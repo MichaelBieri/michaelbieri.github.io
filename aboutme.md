@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Blog" 
+title: "About me" 
 ---
+
 # About Me
 
 I am a passionate Data Science Requirement Engineer with a strong background in data analysis, software engineering, and business requirements gathering. My role focuses on translating complex business needs into actionable data solutions, leveraging advanced analytics and machine learning to drive data-driven decisions.

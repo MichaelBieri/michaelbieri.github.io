@@ -3,7 +3,7 @@ layout: page
 title: "# Hi there 👋"
 ---
 
-![Hi that's me]({{ '/assets/images/MichaelBieri.jpg' | relative_url }})
+![Hi that's me]({{ '/assets/images/MichaelBieri.png' | relative_url }})
 
 I'm Michael from Switzerland, a broadly interested person in technology.
 My journey began with a wordpress homepage, and through the Arduino world,

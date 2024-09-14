@@ -2,23 +2,27 @@
 layout: default
 title: "About me" 
 ---
+
 ### 🔆 Short about me
 My journey began with a wordpress homepage and the Arduino world and now landed in the world of digitalization and data topics.
 🔭 I’m currently working on a flutter mobile APP and projects in the world of AI.
 🧠 My soft skills: Curious, empathetic and committed, requirements engineering, classic and agile project management, business analysis
 
 ---
+
 ### 🔨 Professional Experience
 In my professional career I have 6 years of experience as an electronic and building technology requirements engineer / project manager. 
 I have been involved in projects that integrate data science, IoT and business process digitization. I have a unique skill set that bridges the gap between data scientists, developers, and business stakeholders, ensuring successful project outcomes.
 
 ---
+
 ### 📂 Projects
 - **Customer Churn Prediction:** Developed a predictive model to identify potential churn customers using machine learning algorithms in Python, increasing retention by 20%.
 - **Process Digitization for a Manufacturing Client:** Implemented a data integration solution using Microsoft Power Platform, streamlining operations and reducing manual efforts by 30%.
 - **Retail Sales Forecasting:** Collaborated with business teams to gather requirements and developed a forecasting model to predict seasonal sales trends.
 
 ---
+
 ### 🏆  Achievements
 - Gather and analyze business requirements for data science and machine learning projects.
 - Develop and improve data-driven solutions using **Python**, **R**, **SQL**, and the **Microsoft Power Platform**.
@@ -27,6 +31,7 @@ I have been involved in projects that integrate data science, IoT and business p
 - Lead workshops and training about electronic products.
 
 ---
+
 ### 🚀Key Skills
 - 🚀 My programming skills: Basics in Python, R, SQL, C++, HTML, CSS, JS, React, Dart
 - 📊 My data analysis and visualization skills: Basics in Pandas, NumPy, Matplotlib, ggplot2, plotfly and power platform
@@ -37,4 +42,5 @@ I have been involved in projects that integrate data science, IoT and business p
 - 🙌 My cloud skills: Basics in power platform, Azure, MongoDB, S3, Docker
   
 ---
+
 Alongside my tech pursuits, I also enjoy topics about💡energy and 🌱environment, I play 🎺 and I like to do sports 🧭 🚲

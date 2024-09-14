@@ -2,4 +2,5 @@
 ---
 
 # My CV
-You can [download my CV here](./_docs/CV_MichaelBieri.pdf).
+
+[Download PDF]({{ '/assets/pdfs/CV_MichaelBieri.pdf' | relative_url }})

@@ -1,13 +1,8 @@
+
 ---
 layout: default
-title: "Blog" 
+title: About
 ---
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
 
 # Short about me
 My journey began with a wordpress homepage and the Arduino world and now landed in the world of digitalization and data topics.

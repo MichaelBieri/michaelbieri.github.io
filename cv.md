@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "CV"
 ---
 
 Please have a look on my CV.

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "About me"
 ---
 
 ### 🔆 Me in 4 sentences

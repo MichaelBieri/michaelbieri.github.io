@@ -13,14 +13,14 @@ I have been involved in projects that integrate data science, IoT and business p
 
 ---
 
-### Projects
+### 📂 Projects
 - **Customer Churn Prediction:** Developed a predictive model to identify potential churn customers using machine learning algorithms in Python, increasing retention by 20%.
 - **Process Digitization for a Manufacturing Client:** Implemented a data integration solution using Microsoft Power Platform, streamlining operations and reducing manual efforts by 30%.
 - **Retail Sales Forecasting:** Collaborated with business teams to gather requirements and developed a forecasting model to predict seasonal sales trends.
 
 ---
 
-**Key Responsibilities:**
+### 🏆  Achievements
 - Gather and analyze business requirements for data science and machine learning projects.
 - Develop and improve data-driven solutions using **Python**, **R**, **SQL**, and the **Microsoft Power Platform**.
 - Collaborate with stakeholders to define KPIs and metrics to ensure solutions meet business objectives.

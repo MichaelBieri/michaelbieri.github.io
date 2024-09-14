@@ -1,7 +1,9 @@
+
 ---
 layout: page
 title: "Projects"
 ---
+<h1>{{ "Hello World!" | downcase }}</h1>
 
 <!DOCTYPE html>
 <html lang="de">

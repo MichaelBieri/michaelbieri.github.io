@@ -3,11 +3,9 @@ layout: default
 title: "About me" 
 ---
 
-### 🔆 Me in 3 sentences
-My journey began with a wordpress homepage and the Arduino world, I i have a lot of experience as a requirements engineer and project management
-and now landed in the world of digitalization and data topics.
-🔭 I’m currently working on a flutter mobile APP and projects in the world of AI.
-🧠 My soft skills: Curious, empathetic and committed, requirements engineering, classic and agile project management, business analysis
+### 🔆 Me in 4 sentences
+My journey began with a wordpress homepage and the Arduino world, I have a lot of experience as a requirements engineer, classic and agile project management
+and business analysis. An I now landed in the world of digitalization and data topics.
 
 ---
 
@@ -45,4 +43,5 @@ I have been involved in projects that integrate data science, IoT and business p
 ---
 
 ### 🌴Leisure time
-Alongside my tech pursuits, I also enjoy topics about💡energy and 🌱environment, I play 🎺 and I like to do sports 🧭 🚲
+Alongside my tech pursuits, I also enjoy topics about💡energy and 🌱environment, I play 🎺 and I like to do sports 🧭 🚲.
+🔭 I’m currently working on a flutter mobile APP and projects in the world of AI.

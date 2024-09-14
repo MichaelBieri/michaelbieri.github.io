@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 👋 Hi there
 ---
 
 <img src="{{ '/assets/images/MichaelBieri.png' | relative_url }}" alt="Hi, that's me" class="home_portrait">

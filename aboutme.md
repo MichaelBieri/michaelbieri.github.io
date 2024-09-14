@@ -42,4 +42,4 @@ I have been involved in projects that integrate data science, IoT and business p
   
 ---
 
-Alongside my tech pursuits, I also enjoy topics about💡energy and 🌱environment, I play 🎺 and I do sports🧭🚲
+Alongside my tech pursuits, I also enjoy topics about💡energy and 🌱environment, I play 🎺 and I like to do sports 🧭 🚲

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "# Hi there 👋"
 ---
 ### 🔆 Short about me
 My journey began with a wordpress homepage and the Arduino world and now landed in the world of digitalization and data topics.

@@ -19,7 +19,7 @@ title: "Projects"
         }
         .project-title {
             font-size: 1.5em;
-            margin-bottom: 10px;
+            margin-bottom: none;
         }
         .company-year {
             font-style: italic;

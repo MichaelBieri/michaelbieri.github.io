@@ -10,7 +10,7 @@ title: "Projects"
     <style>
         body {
             line-height: 1.6;
-            margin: 20px;
+            margin: none;
         }
         .project {
             border: none;
@@ -32,7 +32,7 @@ title: "Projects"
         }
         .section-title {
             font-weight: bold;
-            margin-top: 10px;
+            margin-top: none;
         }
     </style>
 </head>

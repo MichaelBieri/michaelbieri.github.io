@@ -14,7 +14,7 @@ title: "Projects"
         }
         .project {
             border: none;
-            padding: 20px;
+            padding: none;
             margin-bottom: 20px;
         }
         .project-title {

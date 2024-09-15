@@ -45,7 +45,7 @@ title: "Projects"
         <img src="https://via.placeholder.com/400x200" alt="Projekt 1 Bild">
         
         <div class="section-title">Was wir erreicht haben:</div>
-        <p>Wir haben eine interaktive Webplattform für Kunden entwickelt, die es ermöglicht, in Echtzeit auf verschiedene Analysen zuzugreifen und ihre Daten zu verwalten.</p>
+        <p>https://www.roca.com/connect</p>
 
         <div class="section-title">Meine Aufgaben:</div>
         <p>Frontend-Entwicklung mit HTML, CSS und JavaScript, sowie die Integration von APIs für Echtzeitdaten. Zusammenarbeit mit dem Backend-Team, um eine nahtlose Benutzererfahrung zu gewährleisten.</p>

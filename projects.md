@@ -13,7 +13,7 @@ title: "Projects"
             margin: 20px;
         }
         .project {
-            border: 1px solid #ccc;
+            border: none;
             padding: 20px;
             margin-bottom: 20px;
         }

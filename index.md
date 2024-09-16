@@ -13,7 +13,6 @@ layout: page
       float: left; 
       padding: 20px;
       width: 70%; /* Breite des Artikels auf 60% beschränken */
-      max-width: 700px; /* Maximale Breite festlegen */
       background-color: #020c42;
       height: auto;
       margin-right: 20px; /* Abstand nach rechts hinzufügen */
@@ -27,12 +26,6 @@ layout: page
       background-color: #ffffff;
       height: auto;
       margin-left: none; /* Abstand nach links hinzufügen */
-    }
-
-    section::after {
-      content: "";
-      display: table;
-      clear: both;
     }
 
     /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */

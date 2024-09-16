@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Blog"
 ---
 
 Please have a look on my CV.

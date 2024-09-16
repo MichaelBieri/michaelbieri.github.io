@@ -11,23 +11,22 @@ layout: page
 
     article {
       float: left; 
-      padding: 30px;
-      width: 60%; /* Breite des Artikels auf 60% beschränken */
-      max-width: 600px; /* Maximale Breite festlegen */
+      padding: 20px;
+      width: 70%; /* Breite des Artikels auf 60% beschränken */
+      max-width: 700px; /* Maximale Breite festlegen */
       background-color: #020c42;
       height: auto;
       margin-right: 20px; /* Abstand nach rechts hinzufügen */
       text-align: justify; /* Textausrichtung auf Blocksatz setzen */
-      border-radius: 10px; /* Abgerundete Ecken hinzufügen */
     }
 
     picture {
       float: right;
-      padding: 30px;
+      padding: 20px;
       width: 30%;
       background-color: #ffffff;
       height: auto;
-      margin-left: 20px; /* Abstand nach links hinzufügen */
+      margin-left: none; /* Abstand nach links hinzufügen */
     }
 
     section::after {

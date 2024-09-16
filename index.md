@@ -10,11 +10,15 @@ layout: page
     }
 
     article {
-      float: left;
+      float: left; 
       padding: 30px;
-      width: 70%;
+      width: 60%; /* Breite des Artikels auf 60% beschränken */
+      max-width: 600px; /* Maximale Breite festlegen */
       background-color: #020c42;
       height: auto;
+      margin-right: 20px; /* Abstand nach rechts hinzufügen */
+      text-align: justify; /* Textausrichtung auf Blocksatz setzen */
+      border-radius: 10px; /* Abgerundete Ecken hinzufügen */
     }
 
     picture {
@@ -23,6 +27,7 @@ layout: page
       width: 30%;
       background-color: #ffffff;
       height: auto;
+      margin-left: 20px; /* Abstand nach links hinzufügen */
     }
 
     section::after {
@@ -36,6 +41,7 @@ layout: page
       picture, article {
         width: 100%;
         height: auto;
+        margin: 0; /* Margin entfernen für kleinere Bildschirme */
       }
     }
   </style>

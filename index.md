@@ -38,16 +38,22 @@ layout: page
     }
   </style>
 </head>
+
+
 <body>
-<section>
-  <picture>
-    <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri" style="width:100%; height:auto;">
-  </picture>
-  <article>
-    <h1 style="color:orange;">Hello, welcome</h1>
-    <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>
-    <p style="color:white;">I'm Michael from Switzerland, a broadly interested person in technology. My journey began with a WordPress homepage, and through the Arduino world, I now landed in the world of digitalization and data topics. In my professional career I have 6 years of experience as an electronic and building technology requirements engineer / project manager. Alongside my tech pursuits, I also enjoy aviation✈️, music🎺, and sports🧭🚲.</p>
-  </article>
-</section>
+  <section>
+    <article>
+      <h1 style="color:orange;">Hello, welcome</h1>
+      <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>
+      <p style="color:white;">I'm Michael from Switzerland, a broadly interested person in technology. My journey began with a WordPress homepage, and through the Arduino world, I now landed in the world of digitalization and data topics. In my professional career I have 6 years of experience as an electronic and building technology requirements engineer / project manager. Alongside my tech pursuits, I also enjoy aviation✈️, music🎺, and sports🧭🚲.</p>
+    </article>
+  </section>
+
+  <section>
+    <picture>
+      <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri" style="width:100%; height:auto;">
+    </picture>
+  </section>
+
 </body>
 </html>

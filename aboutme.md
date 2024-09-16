@@ -1,8 +1,17 @@
-
 ---
 layout: default
-title: "About me"
+title: "Blog"
 ---
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
+
+{% comment %}
+Language: Liquid of Jekyll
+{% endcomment %}
 
 ### 🔆 Me in 4 sentences
 My journey began with a wordpress homepage and the Arduino world, I have a lot of experience as a requirements engineer, classic and agile project management

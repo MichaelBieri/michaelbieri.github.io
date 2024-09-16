@@ -35,6 +35,7 @@ layout: page
       background-color: #020c42;
       padding: 0;
       margin: 0;
+      margin-left: 10px;
     }
 
     /* Responsive layout */

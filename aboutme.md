@@ -4,7 +4,7 @@ title: "Blog"
 ---
 
 ### 🔆 Me in 4 sentences
-3
+4
 My journey began with a wordpress homepage and the Arduino world, I have a lot of experience as a requirements engineer, classic and agile project management
 and business analysis. An I now landed in the world of digitalization and data topics.
 

@@ -16,28 +16,28 @@ layout: page
     /* Container for both the article and the picture */
     .content {
       display: flex;
-      flex-wrap: wrap; /* Ensures responsive layout on small screens */
+      flex-wrap: wrap;
       align-items: flex-start;
     }
 
     /* Styling for the article */
     article {
-      flex: 1 1 60%; /* The article will take up 60% of the width */
+      flex: 1 1 60%;
       padding: 20px;
       background-color: #020c42;
       margin-right: 20px;
       text-align: justify;
     }
 
-    /* Styling for the image container */
+  
     picture {
-      flex: 1 1 30%; /* The picture will take up 30% of the width */
-      background-color: #ffffff;
+      flex: 1 1 30%;
+      background-color: #020c42;
       padding: 0;
       margin: 0;
     }
 
-    /* Responsive layout: Stacks article and image vertically on small screens */
+    /* Responsive layout */
     @media (max-width: 600px) {
       .content {
         flex-direction: column;
@@ -45,7 +45,7 @@ layout: page
 
       article, picture {
         width: 100%;
-        margin-right: 0; /* Remove the margin for smaller screens */
+        margin-right: 0;
       }
     }
   </style>
@@ -54,7 +54,7 @@ layout: page
 <body>
   <section class="content">
     <article>
-      <h1 style="color:orange;">Hello, welcome</h1>
+      <h1 style="font-size:200%;color:orange;">Hello, welcome</h1>
       <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>
       <p style="color:white;">I'm Michael from Switzerland, a broadly interested person in technology. My journey began with a WordPress homepage, and through the Arduino world, I now landed in the world of digitalization and data topics. In my professional career I have 6 years of experience as an electronic and building technology requirements engineer / project manager. Alongside my tech pursuits, I also enjoy aviation✈️, music🎺, and sports🧭🚲.</p>
     </article>

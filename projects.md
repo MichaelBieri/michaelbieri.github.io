@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Projects"
 ---
 
 <html lang="de">

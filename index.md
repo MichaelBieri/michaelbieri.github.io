@@ -3,50 +3,41 @@ layout: page
 title: 👋 Hi there
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Michael Bieri</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+<body>
+  <main>
+    <style>
+    * {
+      box-sizing: border-box;
+    }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
+    article {
+      float: left;
+      padding: 30px;
+      width: 70%;
+      background-color: #020c42;
+      height: auto;
+    }
 
-article {
-  float: left;
-  padding: 30px;
-  width: 70%;
-  background-color: #020c42;
-  height: 450px;
-}
+    section::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
 
-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
-}
-</style>
+    /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+    @media (max-width: 600px) {
+      nav, article {
+        width: 100%;
+        height: auto;
+      }
+    }
+  </style>
 </head>
 <body>
 <section>
   <nav>
 <img src="/assets/images/MichaelBieri.png" alt="Italian Trulli" style="width:100%; height:auto;">
   </nav>
-  
   <article>
     <h1 style="color:orange;">Hello, welcome</h1>
     <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h1>

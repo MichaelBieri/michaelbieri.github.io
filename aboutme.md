@@ -3,6 +3,7 @@ layout: page
 ---
 
 {% raw %}
+<!--
 <html lang="de">
 <head>
   <meta charset="UTF-8">
@@ -13,8 +14,8 @@ layout: page
     main { padding: 20px; }
   </style>
 </head>
+-->
 <body>
-
   <main>
     <h2 id="about">Über mich</h2>
     <p>Ich bin Michael, Webentwickler aus der Schweiz.</p>

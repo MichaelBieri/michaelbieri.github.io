@@ -9,7 +9,7 @@ title: "Blog"
   {% include archive.html title="Posts" %}
 {% endif %}
 
-<h1>Test</h1>
+{% if <h1>Test</h1> %}
 
 {% comment %}
 Language: Liquid of Jekyll

@@ -6,9 +6,7 @@ title: 👋 Hi there
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Michael Bieri</title>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -17,15 +15,6 @@ title: 👋 Hi there
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
-
-nav {
-  float: right;
-  width: 30%;
-  height: 300 px;
-  background: #FFFFFF;
-  padding: none;
-}
-
 
 nav ul {
   list-style-type: none;

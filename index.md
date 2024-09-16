@@ -61,7 +61,7 @@ layout: page
     </article>
 
     <picture>
-      <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri" style="width:100%; height:auto;">
+      <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri" style="width:100%; height:100%;">
     </picture>
   </section>
 </body>

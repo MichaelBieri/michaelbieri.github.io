@@ -9,12 +9,7 @@ title: "Blog"
   {% include archive.html title="Posts" %}
 {% endif %}
 
-<!DOCTYPE html>
-<html>
-  <body>
-     {{ test }}
-  </body>
-</html>
+{{content}}
 
 {% comment %}
 Language: Liquid of Jekyll

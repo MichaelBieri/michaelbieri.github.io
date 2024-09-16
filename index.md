@@ -12,15 +12,17 @@ layout: page
     article {
       float: left;
       padding: 30px;
-      width: 100%;
+      width: 70%;
       background-color: #020c42;
       height: auto;
     }
 
-    nav {
+    picture {
       float: right;
-      width: 30%;
       padding: 30px;
+      width: 30%;
+      background-color: #ffffff;
+      height: auto;
     }
 
     section::after {
@@ -31,7 +33,7 @@ layout: page
 
     /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
     @media (max-width: 600px) {
-      nav, article {
+      picture, article {
         width: 100%;
         height: auto;
       }
@@ -40,9 +42,9 @@ layout: page
 </head>
 <body>
 <section>
-  <nav>
-    <img src="/assets/images/MichaelBieri.png" alt="Italian Trulli" style="width:100%; height:auto;">
-  </nav>
+  <picture>
+    <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri" style="width:100%; height:auto;">
+  </picture>
   <article>
     <h1 style="color:orange;">Hello, welcome</h1>
     <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>

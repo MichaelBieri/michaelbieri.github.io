@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "About me"
+layout: default
+title: "Blog"
 ---
 
 {% if site.show_excerpts %}
@@ -8,8 +8,6 @@ title: "About me"
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
-
-{% <h1>Test5</h1> %}
 
 {% comment %}
 Language: Liquid of Jekyll

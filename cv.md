@@ -4,25 +4,21 @@ layout: page
 
 <h1> Please take a look at my CV </h1>
 
-[Get it]({{ '/assets/pdfs/CV_MichaelBieri.pdf' | relative_url }})
-
-<button name="button" onclick="{{ '/assets/pdfs/CV_MichaelBieri.pdf' | relative_url }}">Click here to download the CV</button>
-
 <head>
   <style>
     .download-btn {
-      background-color: orange; /* Orange background */
-      color: white; /* White text */
-      padding: 15px 25px; /* Padding for the button */
+      background-color: orange; 
+      color: white;
+      padding: 15px 25px;
       text-align: center;
-      text-decoration: none; /* Remove underline from the text */
-      display: inline-block; /* Make it behave like a button */
+      text-decoration: none;
+      display: inline-block;
       font-size: 16px;
       font-weight: bold;
-      border-radius: 5px; /* Rounded corners */
-      border: none; /* No border */
-      cursor: pointer; /* Pointer cursor on hover */
-      transition: background-color 0.3s; /* Smooth hover effect */
+      border-radius: 5px;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.3s;
     }
 
     .download-btn:hover {
@@ -33,7 +29,6 @@ layout: page
 <body>
 
   <!-- Orange button to download the PDF -->
-  <a href="/assets/pdfs/yourfile.pdf" download="yourfile.pdf" class="download-btn">Download PDF</a>
+  <a href="/assets/pdfs/CV_MichaelBieri.pdf" download="yourfile.pdf" class="download-btn">Download PDF</a>
 
 </body>
-</html>

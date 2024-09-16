@@ -3,7 +3,7 @@ layout: default
 title: 👋 Hi there
 ---
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Michael Bieri</title>
@@ -18,7 +18,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Create two columns/boxes that floats next to each other */
 nav {
   float: right;
   width: 30%;
@@ -27,7 +26,7 @@ nav {
   padding: none;
 }
 
-/* Style the list inside the menu */
+
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -41,7 +40,6 @@ article {
   height: 450px;
 }
 
-/* Clear floats after the columns */
 section::after {
   content: "";
   display: table;

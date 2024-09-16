@@ -2,6 +2,7 @@
 layout: page
 ---
 
+{% raw %}
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -28,3 +29,4 @@ layout: page
 
 </body>
 </html>
+{% endraw %}

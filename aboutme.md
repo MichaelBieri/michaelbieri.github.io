@@ -9,6 +9,8 @@ title: "Blog"
   {% include archive.html title="Posts" %}
 {% endif %}
 
+test
+
 {% comment %}
 Language: Liquid of Jekyll
 {% endcomment %}

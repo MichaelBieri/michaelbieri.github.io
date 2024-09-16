@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "About me"
+layout: page
 ---
+
 
 Test text

@@ -3,7 +3,6 @@ layout: page
 ---
 
 {% raw %}
-<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
@@ -24,8 +23,6 @@ layout: page
     <h2 id="contact">Kontakt</h2>
     <p>Email: <a href="mailto:michael@example.com">michael@example.com</a></p>
   </main>
-
-  <footer>&copy; 2024 Michael Bieri</footer>
 
 </body>
 </html>

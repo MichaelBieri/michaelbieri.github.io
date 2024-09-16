@@ -12,7 +12,7 @@ layout: page
     article {
       float: left;
       padding: 30px;
-      width: 70%;
+      width: 100%;
       background-color: #020c42;
       height: auto;
     }

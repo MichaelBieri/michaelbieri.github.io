@@ -67,9 +67,9 @@ layout: page
 <body>
   <section class="content">
     <article>
-      <h1 style="font-size:200%; color:orange; margin-top: 40px;">Hello, welcome</h1>
+      <h1 style="font-size:200%; color:orange; margin-top:">Hello, welcome</h1>
       <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>
-      <p style="color:white; margin-bottom: -30px;">I'm Michael from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
+      <p style="color:white; margin-bottom: -60px;">I'm Michael from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
     </article>
     <picture>
       <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">

@@ -18,24 +18,24 @@ layout: page
       display: flex;
       flex-wrap: wrap;
       align-items: flex-start;
+      margin-bottom: 20px;
     }
 
-    /* Styling for the article */
     article {
       flex: 1 1 60%;
       padding: 20px;
       background-color: #020c42;
-      margin-right: 20px;
-      text-align: justify;
+      margin: auto;
+      text-align: left;
+      line-height: 1.2;
     }
 
-  
     picture {
       flex: 1 1 30%;
       background-color: #020c42;
       padding: 0;
-      margin: 0;
-      margin-left: 10px;
+      /*margin: 30px 20px 0 20px;*/
+      margin: center;
     }
 
     /* Responsive layout */
@@ -46,7 +46,7 @@ layout: page
 
       article, picture {
         width: 100%;
-        margin-right: 0;
+        margin-left: none;
       }
     }
   </style>

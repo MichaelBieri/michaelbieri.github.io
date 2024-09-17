@@ -54,13 +54,15 @@ layout: page
       }
       h1 {
         font-size: 150%;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
       }
       h2 {
         font-size: 250%;
+        margin-bottom: 20px;
       }
       p {
         font-size: 90%;
+        margin-bottom: 10px;
       }
     }
   </style>

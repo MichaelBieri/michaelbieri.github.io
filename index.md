@@ -30,6 +30,22 @@ layout: page
       max-width: 100%;
       height: auto;
     }
+    /* Adjusting margins for h1, h2, and p to reduce space */
+    h1 {
+      font-size: 200%;
+      color: orange;
+      margin-bottom: 5px; /* Reduced space */
+    }
+    h2 {
+      font-size: 400%;
+      color: white;
+      margin-bottom: 10px; /* Reduced space */
+    }
+    p {
+      color: white;
+      margin-bottom: 10px; /* Reduced space */
+      line-height: 1.2; /* Reduced line spacing */
+    }
     /* Responsive layout */
     @media (max-width: 1024px) {
       article {
@@ -53,13 +69,17 @@ layout: page
         padding: 10px;
       }
       h1 {
-          font-size: 150%;
+        font-size: 150%;
+        margin-bottom: 5px;
       }
       h2 {
-          font-size: 250%;
+        font-size: 250%;
+        margin-bottom: 10px;
       }
       p {
-          font-size: 90%;
+        font-size: 90%;
+        margin-bottom: 10px;
+        line-height: 1.2;
       }
     }
   </style>
@@ -67,9 +87,9 @@ layout: page
 <body>
   <section class="content">
     <article>
-      <h1 style="font-size:200%; color:orange; margin-top:">Hello, welcome</h1>
-      <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>
-      <p style="color:white; margin-bottom: -60px;">I'm Michael from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
+      <h1>Hello, welcome</h1>
+      <h2>I'm Michael Bieri</h2>
+      <p>I'm Michael from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
     </article>
     <picture>
       <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">

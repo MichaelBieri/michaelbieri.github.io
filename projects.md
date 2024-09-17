@@ -22,6 +22,7 @@ layout: page
             line-height: 1;
             margin-bottom: -10px;
         }
+
     </style>
 </head>
     <body>
@@ -79,4 +80,5 @@ layout: page
                 <li>Building automation: Creation of schematics for the building automation system and integration into the BIM model.</li>
             </ul>
         </div>
-    </body>
+    <hr>
+</body>

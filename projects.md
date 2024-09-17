@@ -19,7 +19,7 @@ layout: page
         .section-title {
             font-weight: bold;
             line-height: 1;
-            margin-bottom: 5px;
+            margin-bottom: -10px;
         }
         body {
             font-family: Arial, sans-serif;

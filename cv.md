@@ -20,15 +20,12 @@ layout: page
       cursor: pointer;
       transition: background-color 0.3s;
     }
-
     .download-btn:hover {
       background-color: #ff7f00; /* Darker orange on hover */
     }
   </style>
 </head>
 <body>
-
   <!-- Orange button to download the PDF -->
   <a href="/assets/pdfs/CV_MichaelBieri.pdf" download="yourfile.pdf" class="download-btn">Download PDF</a>
-
 </body>

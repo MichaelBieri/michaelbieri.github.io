@@ -5,12 +5,13 @@ layout: page
 <head>
     <style>
         body {
-            line-height: 1;
         }
         .project {
+            line-height: 1;
         }
         .project-title {
             font-size: 1.5em;
+            color: black;
         }
         .company-year {
             font-style: italic;
@@ -18,6 +19,7 @@ layout: page
         }
         .section-title {
             font-weight: bold;
+            margin-bottom: 5px;
         }
     </style>
 </head>
@@ -30,7 +32,7 @@ layout: page
         <p>A smart building management system (IoT architecture) for the ROCA group IoT devices. Mobile application for iOS and Android enables public and private operators to control and parameterize sanitary ware using Bluetooth Low Energy on their mobile devices.
         Frontend as a web interface to the "Laufen Smart" cloud for monitoring, analysis, evaluation, parameterisation and control of the products and gateways developed with external partner. Ethernet/LTE gateway for networking, remote maintenance and control of the products without mobile application via bluetooth developed with external partner.
          </p>
-        <a href="https://www.roca.com/connect">ROCA connect</a>
+        <a href="https://www.roca.com/connect">ROCA connect</a><br>
         <a href="https://www.laufen.ch/smart">LAUFEN smart</a>
         <div class="section-title">My scope of work/tasks in the project?:</div>
         <p>Collecting the requirements of product owners, Agile project management, Creating API, Training of trainee team, answering customer inquiries, creating reports for management and product owners, Creation of product documentation </p>

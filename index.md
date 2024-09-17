@@ -21,7 +21,7 @@ layout: page
       box-sizing: border-box;
     }
     .picture-box {
-      flex: 1 1 30%;
+      flex: 1 1 60%;
       background-color: #FFFFFF;
       padding: 20px;
       margin: auto;

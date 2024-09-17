@@ -6,15 +6,11 @@ layout: page
     <style>
         body {
             line-height: 1;
-            margin: none;
         }
         .project {
-            border: none;
-            padding: none;
         }
         .project-title {
             font-size: 1.5em;
-            margin-bottom: none;
         }
         .company-year {
             font-style: italic;
@@ -22,7 +18,6 @@ layout: page
         }
         .section-title {
             font-weight: bold;
-            margin-top: none;
         }
     </style>
 </head>

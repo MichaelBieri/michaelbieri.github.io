@@ -4,11 +4,6 @@ layout: page
 
 <head>
   <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    /* Container for both the article and the picture */
     .content {
       display: flex;
       flex-wrap: wrap;

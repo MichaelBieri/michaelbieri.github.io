@@ -17,9 +17,12 @@ layout: page
             font-style: italic;
             margin-bottom: 10px;
         }
-        .section-title {
-            font-weight: bold;
-            margin-bottom: 5px;
+        .section-title + p {
+            margin-top: 5px;
+        }
+        hr {
+            border: 1px solid black;
+            margin: 20px 0;
         }
     </style>
 </head>
@@ -39,6 +42,7 @@ layout: page
         <div class="section-title">Meine gewonnen Skills und Fähigkeiten:</div>
         <p>Verbesserte Fähigkeiten in der Frontend-Entwicklung, API-Integration und der Zusammenarbeit in einem agilen Entwicklungsteam. Erfahrung in der Nutzung von React und RESTful APIs.</p>
     </div>
+    <hr>
     <!-- Project 2 -->
     <div class="project">
         <div class="project-title">Project 1: IoT architecture "ROCA connect/Laufen Smart</div>

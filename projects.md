@@ -31,9 +31,8 @@ layout: page
         <div class="project-title">Project 1: IoT architecture "ROCA connect/Laufen Smart</div>
         <div class="company-year">Company: LAUFEN Bathrooms AG | Year: 2021-2024</div>
         <div class="section-title">The project goals?</div>
-        <p>A smart building management system for ROCA IoT devices with iOS/Android apps allowing operators to control and configure sanitary ware via Bluetooth Low Energy. A web interface connects to the "Laufen Smart" cloud for monitoring, analysis, and control of products and gateways. An Ethernet/LTE gateway enables remote maintenance and control without the mobile app, both developed with an external partner.</p>
-        <a href="https://www.roca.com/connect">ROCA connect</a><br>
-        <a href="https://www.laufen.ch/smart">LAUFEN smart</a>
+        <p>A smart building management system for ROCA IoT devices with iOS/Android apps allowing operators to control and configure sanitary ware via Bluetooth Low Energy. A web interface connects to the "Laufen Smart" cloud for monitoring, analysis, and control of products and gateways. An Ethernet/LTE gateway enables remote maintenance and control without the mobile app, both developed with an external partner.
+        <a href="https://www.roca.com/connect">ROCA connect</a> and <a href="https://www.laufen.ch/smart">LAUFEN smart</a> </p>
         <p></p>
         <div class="section-title">My scope of work/tasks in the project?:</div>
         <p>Collecting the requirements of product owners, Management of the project for the brand LAUFEN, Creating API, Training of trainee team, answering customer inquiries, creating reports for management and product owners, Creating of documentations/manuals and certification</p>

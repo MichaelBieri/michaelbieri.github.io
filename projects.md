@@ -22,7 +22,6 @@ layout: page
     </style>
 </head>
 <body>
-
     <!-- Project 1 -->
     <div class="project">
         <div class="project-title">Project 1: IoT architecture "ROCA connect/Laufen Smart</div>
@@ -33,14 +32,11 @@ layout: page
          </p>
         <a href="https://www.roca.com/connect">ROCA connect</a>
         <a href="https://www.laufen.ch/smart">LAUFEN smart</a>
-
         <div class="section-title">My scope of work/tasks in the project?:</div>
         <p>Collecting the requirements of product owners, Agile project management, Creating API, Training of trainee team, answering customer inquiries, creating reports for management and product owners, Creation of product documentation </p>
-
         <div class="section-title">Meine gewonnen Skills und Fähigkeiten:</div>
         <p>Verbesserte Fähigkeiten in der Frontend-Entwicklung, API-Integration und der Zusammenarbeit in einem agilen Entwicklungsteam. Erfahrung in der Nutzung von React und RESTful APIs.</p>
     </div>
-
     <!-- Project 2 -->
     <div class="project">
         <div class="project-title">Project 1: IoT architecture "ROCA connect/Laufen Smart</div>
@@ -51,12 +47,9 @@ layout: page
          </p>
         <a href="https://www.roca.com/connect">ROCA connect</a>
         <a href="https://www.laufen.ch/smart">LAUFEN smart</a>
-
         <div class="section-title">My scope of work/tasks in the project?:</div>
         <p>Collecting the requirements of product owners, Agile project management, Creating API, Training of trainee team, answering customer inquiries, creating reports for management and product owners, Creation of product documentation </p>
-
         <div class="section-title">Meine gewonnen Skills und Fähigkeiten:</div>
         <p>Verbesserte Fähigkeiten in der Frontend-Entwicklung, API-Integration und der Zusammenarbeit in einem agilen Entwicklungsteam. Erfahrung in der Nutzung von React und RESTful APIs.</p>
     </div>
-
 </body>

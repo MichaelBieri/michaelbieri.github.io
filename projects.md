@@ -10,7 +10,7 @@ layout: page
         }
         .project {
             border: none;
-            padding: none;20px;
+            padding: none;
         }
         .project-title {
             font-size: 1.5em;
@@ -65,4 +65,3 @@ layout: page
     </div>
 
 </body>
-</html>

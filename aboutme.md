@@ -12,7 +12,6 @@ layout: page
     h2 {
       color: #ff9900;
       border-bottom: 2px solid #ccc;
-      padding-bottom: 5px;
     }
     p, ul {
       margin-bottom: 15px;
@@ -20,15 +19,13 @@ layout: page
     }
     .container {
       max-width: 800px;
-      margin: 0 auto;
       background: #fff;
-      padding: 20px;
+      padding: 10px;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
     .skills-list {
       list-style-type: none;
-      padding-left: 0;
     }
     .skills-list li {
       background: #f9f9f9;

@@ -24,7 +24,6 @@ layout: page
       flex: 1 1 30%;
       background-color: #020c42;
       padding: 0;
-      /*margin: 30px 20px 0 20px;*/
       margin: center;
     }
 

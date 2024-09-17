@@ -17,7 +17,7 @@ layout: page
     }
     p, ul {
       margin-bottom: 15px;
-      line-height: 1.6;
+      line-height: 1.2;
     }
     .container {
       max-width: 800px;
@@ -49,7 +49,6 @@ layout: page
       margin-right: 10px;
     }
     .leisure-time {
-      font-style: italic;
     }
   </style>
 </head>
@@ -73,4 +72,3 @@ layout: page
     <p class="leisure-time">Alongside my tech pursuits, I also enjoy topics related to 💡energy and 🌱environment. I play 🎺, and I like to do sports 🧭 🚲. Currently, I’m working on a Flutter mobile app and projects in the world of AI.</p>
   </div>
 </body>
-</html>

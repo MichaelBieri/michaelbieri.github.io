@@ -6,47 +6,66 @@ layout: page
   <style>
     .content {
       display: flex;
-      justify-content: space-between; /* Stellt sicher, dass der Artikel und das Bild getrennt sind */
+      flex-wrap: wrap;
       align-items: flex-start;
       margin-bottom: 20px;
-      height: 100vh; /* Volle Höhe des Viewports für klare Trennung */
     }
     article {
       flex: 1 1 60%;
       padding: 20px;
       background-color: #020c42;
-      color: white;
+      margin: auto;
       text-align: left;
       line-height: 1.5;
-      box-sizing: border-box;
-    }
-    .picture-box {
-      flex: 1 1 40%; /* Bildbereich bekommt 40% des Platzes */
-      background-color: #FFFFFF;
-      padding: 20px;
-      display: flex;
-      justify-content: center; /* Bild mittig im Bereich zentrieren */
-      align-items: center;
+      max-width: 100%;
+      box-sizing: border-box; 
     }
     picture {
-      display: block;
-      max-width: 100%;
+      flex: 1 1 30%;
+      background-color: #020c42;
+      padding: 0;
+      margin: center;
     }
     img {
       max-width: 100%;
       height: auto;
     }
+    /* Adjusting margins for h1, h2, and p to reduce space */
+    h1 {
+      font-size: 200%;
+      color: orange;
+      margin-bottom: 5px; /* Reduced space */
+    }
+    h2 {
+      font-size: 400%;
+      color: white;
+      margin-bottom: 10px; /* Reduced space */
+    }
+    p {
+      color: white;
+      margin-bottom: 10px; /* Reduced space */
+      line-height: 1.2; /* Reduced line spacing */
+    }
     /* Responsive layout */
     @media (max-width: 1024px) {
-      .content {
-        flex-direction: column; /* In kleiner Ansicht untereinander anordnen */
+      article {
+        flex: 1 1 100%;
       }
-      article, .picture-box {
-        flex: 1 1 100%; /* Beide Bereiche bekommen 100% Breite */
+      picture {
+        flex: 1 1 100%;
+        text-align: center;
       }
     }
     @media (max-width: 480px) {
-      article, .picture-box {
+      .content {
+        flex-direction: column;
+      }
+      article, picture {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+      }
+      article {
         padding: 10px;
       }
       h1 {
@@ -69,10 +88,8 @@ layout: page
       <h2>I'm Michael Bieri</h2>
       <p>from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
     </article>
-    <div class="picture-box">
-      <picture>
-        <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">
-      </picture>
-    </div>
+    <picture>
+      <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">
+    </picture>
   </section>
 </body>

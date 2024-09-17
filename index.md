@@ -18,13 +18,18 @@ layout: page
       text-align: left;
       line-height: 1.5;
       max-width: 100%;
-      box-sizing: border-box; 
+      box-sizing: border-box;
     }
-    picture {
+    .picture-box {
       flex: 1 1 30%;
       background-color: #FFFFFF;
-      padding: 0;
-      margin: center;
+      padding: 20px;
+      margin: auto;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow effect */
+    }
+    picture {
+      display: block;
+      margin: auto;
     }
     img {
       max-width: 100%;
@@ -51,7 +56,7 @@ layout: page
       article {
         flex: 1 1 100%;
       }
-      picture {
+      .picture-box {
         flex: 1 1 100%;
         text-align: center;
       }
@@ -60,7 +65,7 @@ layout: page
       .content {
         flex-direction: column;
       }
-      article, picture {
+      article, .picture-box {
         width: 100%;
         margin: 0;
         text-align: center;
@@ -88,8 +93,10 @@ layout: page
       <h2>I'm Michael Bieri</h2>
       <p>from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
     </article>
-    <picture>
-      <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">
-    </picture>
+    <div class="picture-box">
+      <picture>
+        <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">
+      </picture>
+    </div>
   </section>
 </body>

@@ -38,7 +38,7 @@ layout: page
         text-align: center;
       }
     }
-    @media (max-width: 600px) {
+    @media (max-width: 480px) {
       .content {
         flex-direction: column;
       }

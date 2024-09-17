@@ -9,6 +9,8 @@ layout: page
       flex-wrap: wrap;
       align-items: flex-start;
       margin-bottom: 20px;
+      max-width: 100%;
+      box-sizing: border-box; 
     }
     article {
       flex: 1 1 60%;

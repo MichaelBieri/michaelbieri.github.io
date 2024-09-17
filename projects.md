@@ -17,12 +17,8 @@ layout: page
             font-style: italic;
             margin-bottom: 10px;
         }
-        .section-title + p {
-            margin-top: 5px;
-        }
-        hr {
-            border: 1px solid black;
-            margin: 20px 0;
+        .section-title {
+            font-weight: bold;
         }
     </style>
 </head>

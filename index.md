@@ -9,8 +9,6 @@ layout: page
       flex-wrap: wrap;
       align-items: flex-start;
       margin-bottom: 20px;
-      max-width: 100%;
-      box-sizing: border-box; 
     }
     article {
       flex: 1 1 60%;
@@ -19,6 +17,8 @@ layout: page
       margin: auto;
       text-align: left;
       line-height: 1.5;
+      max-width: 100%;
+      box-sizing: border-box; 
     }
     picture {
       flex: 1 1 30%;

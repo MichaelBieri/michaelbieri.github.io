@@ -54,6 +54,7 @@ layout: page
       }
       h1 {
         font-size: 150%;
+        margin-bottom: 20px;
       }
       h2 {
         font-size: 250%;
@@ -69,7 +70,7 @@ layout: page
     <article>
       <h1 style="font-size:200%;color:orange;">Hello, welcome</h1>
       <h2 style="font-size:400%;color:white;">I'm Michael Bieri</h2>
-      <p style="color:white;">I'm Michael from Switzerland, a broadly interested person in technology. My journey began with a WordPress homepage, and through the Arduino world, I now landed in the world of digitalization and data topics. In my professional career I have 6 years of experience as an electronic and building technology requirements engineer / project manager. Alongside my tech pursuits, I also enjoy music🎺 and sports🧭🚲.</p>
+      <p style="color:white;">I'm Michael from Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
     </article>
     <picture>
       <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">

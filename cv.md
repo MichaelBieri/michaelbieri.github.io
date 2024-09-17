@@ -27,5 +27,5 @@ layout: page
 </head>
 <body>
   <!-- Orange button to download the PDF -->
-  <a href="/assets/pdfs/CV_MichaelBieri.pdf" download="yourfile.pdf" class="download-btn">Download PDF</a>
+  <a href="/assets/pdfs/CV_MichaelBieri.pdf" download="CV_MichaelBieri.pdf" class="download-btn">Download CV</a>
 </body>

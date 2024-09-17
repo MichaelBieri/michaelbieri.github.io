@@ -22,7 +22,7 @@ layout: page
     }
     picture {
       flex: 1 1 30%;
-      background-color: #020c42;
+      background-color: #FFFFFF;
       padding: 0;
       margin: center;
     }

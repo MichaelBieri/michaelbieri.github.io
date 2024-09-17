@@ -5,7 +5,6 @@ layout: page
 <head>
   <style>
     body {
-      margin: 20px;
       background-color: #f4f4f9;
       color: #333;
     }

@@ -53,16 +53,17 @@ layout: page
         padding: 10px;
       }
       h1 {
-        font-size: 150%;
-        margin-bottom: -10px;
+          font-size: 150%;
+          margin-bottom: -15px; /* Increase negative value to reduce more space */
       }
       h2 {
-        font-size: 250%;
-        margin-bottom: -20px;
+          font-size: 250%;
+          margin-bottom: -25px; /* Increase negative value for tighter space */
       }
       p {
-        font-size: 90%;
-        margin-bottom: -10px;
+          font-size: 90%;
+          margin-bottom: -15px; /* Increase negative value to reduce space */
+          line-height: 1.2; /* Adjust line height to further control spacing */
       }
     }
   </style>

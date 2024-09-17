@@ -70,15 +70,12 @@ layout: page
       }
       h1 {
         font-size: 150%;
-        margin-bottom: 5px;
       }
       h2 {
         font-size: 250%;
-        margin-bottom: 10px;
       }
       p {
         font-size: 90%;
-        margin-bottom: 10px;
         line-height: 1.2;
       }
     }

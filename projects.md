@@ -42,14 +42,15 @@ layout: page
             <li>Protyping: Created valuable prototypes with arduino for Proof-of-concepts</li>
             <li>Communication: Building and strengthening relationships with suppliers, customers and internal product owners.</li>
             <li>Data pipeline: Created an industry-leading IoT architecture using Azure Services.</li>
-            <li>Requirements engineer: RequDevelopment of end-to-end solutions that fulfil all approval criteria and requirements.</li>
+            <li>Data visualisation and user interfaces: Creation of a user-friendly interface for data visualisation and device control.</li>           
+            <li>Requirements engineer: Development of end-to-end solutions that fulfil all approval criteria and requirements.</li>
         </ul>
     </div>
     <hr>
     <!-- Project 2 -->
     <div class="project">
         <div class="project-title">Project 2: Proof-of-concept of a touchless washbasin (diploma thesis for MAS Automation Management)</div>
-        <div class="company-year">Company: LAUFEN Bathrooms AG | Year: 2022</div>
+        <div class="company-year">Company: LAUFEN Bathrooms AG + FHNW | Year: 2022</div>
         <div class="section-title">The project goals?</div>
         <p>Conception and realisation of a prototype for a touchless ceramic washbasin without tap using sensor fusion.</p>
         <p></p>
@@ -58,10 +59,25 @@ layout: page
         <div class="section-title">My gained skills?:</div>
         <ul>
             <li>Requirment engineering: Collection of innovative ideas for a new type of water-bearing washbasin product without a tap.</li>
-            <li>Analysing and brainstorming: Created valuable prototypes with arduino for Proof-of-concepts</li>
-            <li>Communication: Building and strengthening relationships with suppliers, customers and internal product owners.</li>
-            <li>Data pipeline: Created an industry-leading IoT architecture using Azure Services.</li>
-            <li>Requirements engineer: RequDevelopment of end-to-end solutions that fulfil all approval criteria and requirements.</li>
+            <li>Analysing and brainstorming: Created a valuable prototype with Arduino for Proof-of-concept</li>
+            <li>Sensor technologies: To ensure intuitive use, I have combined several sensor technologies (sensor fusion). </li>
+        </ul>
+    </div>
+    <hr>
+        <!-- Project 3 -->
+    <div class="project">
+        <div class="project-title">Project 3: Building 1 Areal Uptown Industrie 4.0 in Münchenstein, Switzerland</div>
+        <div class="company-year">Company: Amstein + Walthert Basel AG | Year: 2018-2021</div>
+        <div class="section-title">The project goals?</div>
+        <p>Planning and design of building automation, HVAC conception and BIM drawing.</p>
+        <p></p>
+        <div class="section-title">My scope of work/tasks in the project?:</div>
+        <p>AutoCAD Revit, Dalux, control technology, coordination, BIM standards and guidelines</p>
+        <div class="section-title">My gained skills?:</div>
+        <ul>
+            <li>Engineering: Engineering of HVAC systems (Heating and air) of the building 1.</li>
+            <li>Modelling: Modelling of the </li>
+            <li>Sensor technologies: To ensure intuitive use, I have combined several sensor technologies (sensor fusion). </li>
         </ul>
     </div>
     <hr>

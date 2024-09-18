@@ -31,7 +31,7 @@ layout: page
     }
     /* Main column */
     .main {
-      flex:60%;
+      flex: 60%;
       background-color: #f4f4f9;
       padding: 10px;
       display: flex;
@@ -42,13 +42,16 @@ layout: page
       display: flex;
       justify-content: left;
       align-items: bottom;
-      margin-left: -20px;
+      margin-left: -10px;
       margin-top: 0px;
       border: 8px solid orange; /* Adds a 4px solid orange border */
+      width: 100%; /* Adjust the width of the picture container */
+      height: 300px; /* Set a fixed height for the picture */
     }
     img {
-      max-width: 80%;
-      height: auto;
+      width: 100%; /* Ensures the image takes up the entire width of the picture */
+      height: 100%; /* Ensures the image fits within the specified height */
+      object-fit: cover; /* Maintains aspect ratio while filling the picture container */
     }
     /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {
@@ -74,19 +77,3 @@ layout: page
     }
   </style>
 </head>
-<body>
-
-<!-- The flexible grid (content) -->
-<div class="row">
-  <div class="side">
-    <h1>Hello, welcome</h1>    
-    <h2>I'm Michael Bieri</h2> 
-    <p>From Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
-  </div>
-  <div class="main">
-    <picture>
-      <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">
-    </picture>
-  </div>
-</div>
-</body>

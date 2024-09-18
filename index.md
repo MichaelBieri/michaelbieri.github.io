@@ -39,7 +39,7 @@ layout: page
       display: flex;
     }
     img {
-      max-width: 80%;
+      max-width: 100%;
       max-height: auto;
       border: 8px solid orange;
     }

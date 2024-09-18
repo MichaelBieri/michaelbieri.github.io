@@ -12,11 +12,6 @@ layout: page
       body {
         margin: 0;
       }
-      /* Change color on hover */
-      .navbar a:hover {
-        background-color: #ddd;
-        color: black;
-      }
       /* Column container */
       .row {  
         display: flex;
@@ -25,20 +20,14 @@ layout: page
       /* Create two unequal columns that sits next to each other */
       /* Sidebar/left column */
       .side {
-        flex: 30%;
-        background-color: #f1f1f1;
+        flex: 100%;
+        background-color: #f4f4f9;
         padding: 20px;
       }
       /* Main column */
       .main {
         flex: 70%;
         background-color: white;
-        padding: 20px;
-      }
-      /* Fake image, just for this example */
-      .fakeimg {
-        background-color: #aaa;
-        width: 100%;
         padding: 20px;
       }
       /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */

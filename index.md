@@ -17,7 +17,7 @@ layout: page
       display: flex;
       flex-wrap: wrap;
       align-items: stretch; /* Ensures both columns stretch to the same height */
-      margin: 20px auto 0 auto;
+      margin-top: 20px;
     }
     /* Sidebar/left column */
     .side {

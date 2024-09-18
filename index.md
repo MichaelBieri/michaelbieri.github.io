@@ -43,7 +43,7 @@ layout: page
       justify-content: left;
       align-items: bottom;
       margin-left: -20px;
-      margin-top: 10px;
+      margin-top: 0px;
       border: 8px solid orange; /* Adds a 4px solid orange border */
     }
     img {

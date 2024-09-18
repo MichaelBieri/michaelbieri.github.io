@@ -8,7 +8,6 @@ layout: page
   <style>
     body {
       background-color: #f4f4f9;
-      color: #333;
     }
     .download-btn {
       background-color: orange; 
@@ -25,7 +24,7 @@ layout: page
       transition: background-color 0.3s;
     }
     .download-btn:hover {
-      background-color: #ff7f00; /* Darker orange on hover */
+      background-color: #ff7f00;
     }
   </style>
 </head>

@@ -10,13 +10,12 @@ layout: page
     /* Style the body */
     body {
       background-color: #f4f4f9;
-      color: #333;
     }
     /* Column container */
     .row {  
       display: flex;
       flex-wrap: wrap;
-      align-items: stretch; /* Ensures both columns stretch to the same height */
+      align-items: stretch;
       justify-content: center;
     }
     /* Sidebar/left column */

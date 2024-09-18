@@ -6,7 +6,6 @@ layout: page
     <style>
         body {
             background-color: #f4f4f9;
-            color: #333;
         }
         .container {
             max-width: 909.062px;

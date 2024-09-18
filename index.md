@@ -60,7 +60,7 @@ layout: page
     h2 {
       font-size: 400%;
       color: white;
-      margin-bottom: 10px;
+      margin-bottom: 0px;
     }
     p {
       margin-bottom: -10px;

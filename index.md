@@ -51,7 +51,7 @@ layout: page
     }
     img {
       max-width: 100%;
-      height: auto;
+      height: 100%;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {

@@ -4,10 +4,6 @@ layout: page
 
 <head>
   <style>
-    * {
-      box-sizing: border-box;
-    }
-    /* Style the body */
     body {
       background-color: #f4f4f9;
       color: #333;

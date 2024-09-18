@@ -30,7 +30,7 @@ layout: page
       padding: 10px;
       display: flex;
       flex-direction: column;
-      justify-content: center; /* Vertically centers the text inside the side column */
+      justify-content: center;
     }
     /* Main column */
     .main {
@@ -40,13 +40,12 @@ layout: page
       display: flex;
     }
     picture {
-      display: flex;
       border: 8px solid orange;
     }
     img {
       max-width: 100%;
       max-height: 100%;
-      margin-top: 70px; /* Moves the image 10px down */
+      margin-top: 70px;
     }
     h1 {
       font-size: 200%;

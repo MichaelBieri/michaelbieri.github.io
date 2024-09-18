@@ -47,11 +47,10 @@ layout: page
       align-items: bottom;
       border: 8px solid orange;
       margin: 0;
-
     }
     img {
       max-width: 100%;
-      height: 100%;
+      max-height: 574.5px;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {

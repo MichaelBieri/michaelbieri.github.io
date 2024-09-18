@@ -4,6 +4,10 @@ layout: page
 
 <head>
     <style>
+        body {
+        background-color: #f4f4f9;
+        color: #333;
+        }
         .project {
             line-height: 1;
             margin-bottom: 20px;

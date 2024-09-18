@@ -5,9 +5,6 @@ layout: page
 <body>
   <head>
     <style>
-      * {
-        box-sizing: border-box;
-      }
       /* Style the body */
       body {
         margin: 0;
@@ -64,7 +61,7 @@ layout: page
   <div class="side">
     <h1>Hello, welcome</h1>    
     <h2>I'm Michael Bieri</h2>
-    <h5>Pfrom Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</h5>
+    <p>Pfrom Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
   </div>
   <div class="main">
       <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">

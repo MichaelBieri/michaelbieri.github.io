@@ -34,17 +34,17 @@ layout: page
       background-color: #f4f4f9;
       padding: 20px;
       display: flex;
-      justify-content: center;
-      align-items: center;
+      justify-content: flex-start; /* Aligns items to the left */
+      align-items: flex-end; /* Aligns items to the bottom */
     }
     picture {
       display: flex;
-      justify-content: center;
-      align-items: center;
+      justify-content: left;
+      align-items: bottom;
       margin-left: -20px;
     }
     img {
-      max-width: 100%;
+      max-width: 80%;
       height: auto;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */

@@ -21,7 +21,7 @@ layout: page
       /* Sidebar/left column */
       .side {
         flex: 30%;
-        background-color: #f4f4f9;
+        background-color: #020c42
         padding: 20px;
         text-align: left;
         justify-content: center; 
@@ -29,17 +29,17 @@ layout: page
       /* Main column */
       .main {
         flex: 70%;
-        background-color: white;
+        background-color: #f4f4f9;
         padding: 20px;
       }
           /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {
-      font-size: 200%;
+      font-size: 150%;
       color: orange;
       margin-bottom: 5px; /* Reduced space */
     }
     h2 {
-      font-size: 400%;
+      font-size: 300%;
       color: white;
       margin-bottom: 10px; /* Reduced space */
     }

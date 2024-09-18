@@ -43,9 +43,9 @@ layout: page
     }
     picture {
       display: flex;
-      justify-content: left;
-      align-items: bottom;
-      border: 15px solid orange;
+      justify-content: center;
+      align-items: center;
+      border: 8px solid orange;
     }
     img {
       max-width: 70%;

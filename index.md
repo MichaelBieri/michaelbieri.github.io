@@ -46,11 +46,11 @@ layout: page
       justify-content: left;
       align-items: bottom;
       border: 8px solid orange;
+      margin: 0; /* Removes any margin around the picture element */
     }
     img {
       max-width: 100%;
       height: auto;
-      align-items: bottom;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {

@@ -63,7 +63,7 @@ layout: page
       margin-bottom: 10px;
     }
     p {
-      margin-bottom: -10px;
+      margin-bottom: 10px;
       color: white;
       line-height: 1.6;
     }

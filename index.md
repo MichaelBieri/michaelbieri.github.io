@@ -54,19 +54,19 @@ layout: page
     }
     /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {
-      font-size: 170%;
+      font-size: 200%;
       color: orange;
       margin-bottom: 5px;
     }
     h2 {
-      font-size: 330%;
+      font-size: 400%;
       color: white;
       margin-bottom: 10px;
     }
     p {
       margin-bottom: -10px;
       color: white;
-      line-height: 1.5;
+      line-height: 1.6;
     }
     /* Responsive layout */
     @media screen and (max-width: 700px) {

@@ -18,7 +18,7 @@ layout: page
       line-height: 1.5;
     }
     .container {
-      max-width: 887.594px;
+      max-width: 939.062px;
       background: #fff;
       padding: 20px;
       border-radius: 8px;

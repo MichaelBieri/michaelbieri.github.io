@@ -41,7 +41,6 @@ layout: page
     img {
       max-width: auto;
       max-height: auto;
-      margin-top: 70px;
       border: 8px solid orange;
     }
     h1 {

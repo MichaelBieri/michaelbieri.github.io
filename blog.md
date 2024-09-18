@@ -19,7 +19,6 @@ title: "Blog"
     }
   </style>
 </head>
-
 <body>
   <div class="container">
     {% if site.show_excerpts %}

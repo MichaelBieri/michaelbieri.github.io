@@ -8,6 +8,14 @@ layout: page
       background-color: #f4f4f9;
       color: #333;
     }
+        .container {
+      max-width: 939.062px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin: 30px auto 30px auto;
+    }
     h2 {
       color: #ff9900;
       border-bottom: 2px solid #ccc;
@@ -18,14 +26,6 @@ layout: page
       margin-bottom: 15px;
       line-height: 1.5;
       margin: 5px auto 10px auto;
-    }
-    .container {
-      max-width: 939.062px;
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin: 30px auto 30px auto;
     }
     .skills-list {
       list-style-type: none;

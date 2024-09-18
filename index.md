@@ -21,7 +21,7 @@ layout: page
     }
     /* Sidebar/left column */
     .side {
-      flex: 60%;
+      flex: 55%;
       height: 650px;
       background-color: #030e4e;
       text-align: left;
@@ -34,13 +34,13 @@ layout: page
     }
     /* Main column */
     .main {
-      flex: 40%;
+      flex: 45%;
       background-color: #f4f4f9;
       padding: 0px;
       display: flex;
     }
     img {
-      max-width: auto;
+      max-width: 100%;
       max-height: auto;
       border: 8px solid orange;
     }

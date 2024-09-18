@@ -42,7 +42,7 @@ layout: page
       display: flex;
       justify-content: left;
       align-items: bottom;
-      margin-left: -10px;
+      margin-left: -20px;
       margin-top: 0px;
       border: 8px solid orange; /* Adds a 4px solid orange border */
       width: 100%; /* Adjust the width of the picture container */

@@ -17,32 +17,36 @@ layout: page
     .row {  
       display: flex;
       flex-wrap: wrap;
+      align-items: stretch; /* Ensures both columns stretch to the same height */
     }
     /* Sidebar/left column */
     .side {
       flex: 40%;
       background-color: #030e4e;
-      text-align: left; /* Text aligned left */
+      text-align: left;
       justify-content: center;
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      padding: 20px; /* Adds spacing inside the .side element */
-      margin-bottom: 10px; /* Reduced space */
+      padding: 20px;
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center; /* Vertically centers the text inside the side column */
     }
     /* Main column */
     .main {
-      flex:60%;
+      flex: 60%;
       background-color: #f4f4f9;
       padding: 0px;
       display: flex;
-      justify-content: flex-start; /* Aligns items to the left */
-      align-items: flex-end; /* Aligns items to the bottom */
+      justify-content: center; /* Centers the picture horizontally */
+      align-items: center; /* Centers the picture vertically */
     }
     picture {
       display: flex;
-      justify-content: left;
-      align-items: bottom;
-      border: 8px solid orange; /* Adds a 4px solid orange border */
+      justify-content: center;
+      align-items: center;
+      border: 8px solid orange;
     }
     img {
       max-width: 70%;
@@ -52,17 +56,17 @@ layout: page
     h1 {
       font-size: 170%;
       color: orange;
-      margin-bottom: 5px; /* Reduced space */
+      margin-bottom: 5px;
     }
     h2 {
       font-size: 330%;
       color: white;
-      margin-bottom: 10px; /* Reduced space */
+      margin-bottom: 10px;
     }
     p {
-      margin-bottom: -10px; /* Reduced space */
+      margin-bottom: -10px;
       color: white;
-      line-height: 1.5; /* Reduced line spacing */
+      line-height: 1.5;
     }
     /* Responsive layout */
     @media screen and (max-width: 700px) {

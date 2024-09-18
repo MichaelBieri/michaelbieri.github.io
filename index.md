@@ -43,7 +43,7 @@ layout: page
       align-items: center;
     }
     img {
-      max-width: 60%;
+      max-width: 100%;
       height: auto;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */

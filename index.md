@@ -45,7 +45,7 @@ layout: page
       border: 8px solid orange; /* Adds a 4px solid orange border */
     }
     img {
-      max-width:770%;
+      max-width: 70%;
       height: auto;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */

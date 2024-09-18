@@ -38,13 +38,11 @@ layout: page
       padding: 0px;
       display: flex;
     }
-    picture {
-      border: 8px solid orange;
-    }
     img {
       max-width: auto;
       max-height: auto;
       margin-top: 70px;
+      border: 8px solid orange;
     }
     h1 {
       font-size: 200%;
@@ -79,9 +77,7 @@ layout: page
     <p>From Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
   </div>
   <div class="main">
-    <picture>
       <img src="/assets/images/MichaelBieri.png" alt="Michael Bieri">
-    </picture>
   </div>
 </div>
 </body>

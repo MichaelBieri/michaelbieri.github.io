@@ -17,6 +17,7 @@ layout: page
     p, ul {
       margin-bottom: 15px;
       line-height: 1.5;
+      margin: 5px auto 10px auto;
     }
     .container {
       max-width: 939.062px;

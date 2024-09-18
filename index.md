@@ -22,7 +22,7 @@ layout: page
     /* Sidebar/left column */
     .side {
       flex: 60%;
-      height: 600px;
+      height: 700px;
       background-color: #030e4e;
       text-align: left;
       justify-content: center;

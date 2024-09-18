@@ -3,6 +3,15 @@ layout: default
 title: "Blog"
 ---
 
+<head>
+  <style>
+    body {
+      background-color: #f4f4f9;
+      color: #333;
+    }
+  </style>
+</head>
+¨
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}

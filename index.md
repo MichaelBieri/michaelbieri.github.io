@@ -46,7 +46,8 @@ layout: page
       justify-content: left;
       align-items: bottom;
       border: 8px solid orange;
-      margin: 0; /* Removes any margin around the picture element */
+      margin: 0;
+
     }
     img {
       max-width: 100%;
@@ -82,8 +83,7 @@ layout: page
 <div class="row">
   <div class="side">
     <h1>Hello, welcome</h1>
-    <h2>I'm</h2>
-    <h2>Michael Bieri</h2>
+    <h2>I'm Michael Bieri</h2>
     <p>From Switzerland, with a broad interest in technology. My journey began with a WordPress homepage, and through the world of Arduino, I eventually found myself in the realm of digitalisation and data. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
   </div>
   <div class="main">

@@ -50,9 +50,9 @@ layout: page
     }
     img {
       max-width: 100%;
-      max-height: 574.5px;
+      max-height: 100%;
+      margin-top: 10px; /* Moves the image 10px down */
     }
-    /* Adjusting margins for h1, h2, and p to reduce space */
     h1 {
       font-size: 200%;
       color: orange;

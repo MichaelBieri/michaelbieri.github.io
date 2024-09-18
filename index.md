@@ -45,15 +45,15 @@ layout: page
     h1 {
       font-size: 200%;
       color: orange;
-      margin-bottom: 5px;
+      margin-bottom: 20px;
     }
     h2 {
       font-size: 400%;
       color: white;
-      margin-bottom: 0px;
+      margin-bottom: 30px;
     }
     p {
-      margin-bottom: 20px;
+      margin-bottom: 40px;
       color: white;
       line-height: 1.6;
     }

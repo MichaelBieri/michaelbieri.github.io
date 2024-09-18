@@ -20,7 +20,7 @@ layout: page
     }
     /* Sidebar/left column */
     .side {
-      flex: 60%;
+      flex: 40%;
       background-color: #030e4e;
       text-align: left; /* Text aligned left */
       justify-content: center;
@@ -31,7 +31,7 @@ layout: page
     }
     /* Main column */
     .main {
-      flex:40%;
+      flex:60%;
       background-color: #f4f4f9;
       padding: 20px;
       display: flex;
@@ -42,7 +42,7 @@ layout: page
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-left: -10px;
+      margin-left: -20px;
     }
     img {
       max-width: 100%;

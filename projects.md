@@ -5,8 +5,16 @@ layout: page
 <head>
     <style>
         body {
-        background-color: #f4f4f9;
-        color: #333;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 909.062px;
+            margin: 60px auto 60px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .project {
             line-height: 1;

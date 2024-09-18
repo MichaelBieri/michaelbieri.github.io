@@ -24,8 +24,7 @@ layout: page
       background-color: #030e4e;
       text-align: left; /* Text aligned left */
       justify-content: center;
-      color: white; /* Ensure text is white */
-      border-radius: 8px;
+      border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       padding: 20px; /* Adds spacing inside the .side element */
     }
@@ -61,6 +60,7 @@ layout: page
     }
     p {
       margin-bottom: 10px; /* Reduced space */
+      color: white;
       line-height: 1.2; /* Reduced line spacing */
     }
     /* Responsive layout */

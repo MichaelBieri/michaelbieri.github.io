@@ -33,7 +33,7 @@ layout: page
     .main {
       flex:60%;
       background-color: #f4f4f9;
-      padding: 20px;
+      padding: 10px;
       display: flex;
       justify-content: flex-start; /* Aligns items to the left */
       align-items: flex-end; /* Aligns items to the bottom */

@@ -6,6 +6,10 @@ layout: page
 
 <head>
   <style>
+    body {
+      background-color: #f4f4f9;
+      color: #333;
+    }
     .download-btn {
       background-color: orange; 
       color: white;

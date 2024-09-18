@@ -39,8 +39,8 @@ layout: page
       background-color: #f4f4f9;
       padding: 0px;
       display: flex;
-      justify-content: center; /* Centers the picture horizontally */
-      align-items: center; /* Centers the picture vertically */
+      justify-content: left; /* Centers the picture horizontally */
+      align-items: bottom; /* Centers the picture vertically */
     }
     picture {
       display: flex;

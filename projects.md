@@ -10,7 +10,7 @@ layout: page
         }
         .container {
             max-width: 909.062px;
-            margin: 60px auto 60px auto;
+            margin: 30px auto 30px auto;
             background: #fff;
             padding: 20px;
             border-radius: 8px;

@@ -12,6 +12,7 @@ layout: page
       color: #ff9900;
       border-bottom: 2px solid #ccc;
       padding-bottom: 5px;
+      margin: 5px auto 5px auto;
     }
     p, ul {
       margin-bottom: 15px;

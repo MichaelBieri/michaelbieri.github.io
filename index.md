@@ -33,15 +33,6 @@ layout: page
       flex-direction: column;
       justify-content: center; /* Vertically centers the text inside the side column */
     }
-    /* Main column */
-    .main {
-      flex: 40%;
-      background-color: #f4f4f9;
-      padding: 0px;
-      display: flex;
-      justify-content: left; /* Centers the picture horizontally */
-      align-items: bottom; /* Centers the picture vertically */
-    }
     picture {
       display: flex;
       justify-content: center;

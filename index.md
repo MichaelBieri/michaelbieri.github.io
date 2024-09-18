@@ -37,6 +37,7 @@ layout: page
       flex: 40%;
       background-color: #f4f4f9;
       padding: 0px;
+      display: flex;
       justify-content: left; /* Centers the picture horizontally */
       align-items: bottom; /* Centers the picture vertically */
     }
@@ -45,7 +46,6 @@ layout: page
       justify-content: left;
       align-items: bottom;
       border: 8px solid orange;
-      margin: 0;
     }
     img {
       max-width: 100%;

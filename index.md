@@ -41,8 +41,6 @@ layout: page
     }
     picture {
       display: flex;
-      justify-content: left;
-      align-items: bottom;
       border: 8px solid orange;
     }
     img {

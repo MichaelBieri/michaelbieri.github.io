@@ -36,7 +36,6 @@ layout: page
     .main {
       flex: 40%;
       background-color: #f4f4f9;
-      padding: 0px;
       display: flex;
       justify-content: left; /* Centers the picture horizontally */
       align-items: bottom; /* Centers the picture vertically */

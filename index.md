@@ -10,7 +10,7 @@ layout: page
       }
       /* Style the body */
       body {
-        background-color: #020c42;
+        background-color: #f4f4f9;
         color: #333;
         margin: 0;
       }
@@ -23,7 +23,7 @@ layout: page
       /* Sidebar/left column */
       .side {
         flex: 30%;
-        background-color: #f4f4f9
+        background-color: #020c42
         padding: 20px;
         text-align: left;
         justify-content: center; 

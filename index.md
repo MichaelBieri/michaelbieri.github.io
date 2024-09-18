@@ -42,11 +42,10 @@ layout: page
       display: flex;
       justify-content: left;
       align-items: bottom;
-      margin-top: 0px;
       border: 8px solid orange; /* Adds a 4px solid orange border */
     }
     img {
-      max-width: 80%;
+      max-width:770%;
       height: auto;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */

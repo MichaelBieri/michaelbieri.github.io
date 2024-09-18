@@ -27,6 +27,7 @@ layout: page
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       padding: 20px; /* Adds spacing inside the .side element */
+      margin-bottom: 20px; /* Reduced space */
     }
     /* Main column */
     .main {
@@ -59,7 +60,7 @@ layout: page
       margin-bottom: 10px; /* Reduced space */
     }
     p {
-      margin-bottom: 10px; /* Reduced space */
+      margin-bottom: 0px; /* Reduced space */
       color: white;
       line-height: 1.2; /* Reduced line spacing */
     }

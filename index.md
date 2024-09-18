@@ -51,7 +51,7 @@ layout: page
     img {
       max-width: 100%;
       max-height: 100%;
-      margin-top: 30px; /* Moves the image 10px down */
+      margin-top: -100px; /* Moves the image 10px down */
     }
     h1 {
       font-size: 200%;

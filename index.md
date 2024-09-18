@@ -20,16 +20,18 @@ layout: page
     }
     /* Sidebar/left column */
     .side {
-      flex: 40%;
+      flex: 60%;
       background-color: #030e4e;
       text-align: left; /* Text aligned left */
+      justify-content: center;
       color: white; /* Ensure text is white */
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin: 10px;
     }
     /* Main column */
     .main {
-      flex: 60%;
+      flex:40%;
       background-color: #f4f4f9;
       padding: 20px;
       display: flex;

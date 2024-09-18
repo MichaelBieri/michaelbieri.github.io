@@ -43,8 +43,8 @@ layout: page
       border: 8px solid orange;
     }
     img {
-      max-width: 100%;
-      max-height: 100%;
+      max-width: auto;
+      max-height: auto;
       margin-top: 70px;
     }
     h1 {

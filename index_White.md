@@ -3,13 +3,6 @@ layout: page
 ---
 
 <head>
-    <style>
-        body {
-        background-color: #f4f4f9;
-        color: #333;
-        }
-
-<head>
   <style>
     body {
       background-color: #f4f4f9;

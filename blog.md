@@ -11,7 +11,7 @@ title: "Blog"
     }
     .container {
       max-width: 909.062px;
-      margin: 50px auto 50px auto;
+      margin: 60px auto 60px auto;
       background: #fff;
       padding: 20px;
       border-radius: 8px;

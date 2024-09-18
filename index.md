@@ -20,9 +20,11 @@ layout: page
       /* Create two unequal columns that sits next to each other */
       /* Sidebar/left column */
       .side {
-        flex: 100%;
+        flex: 30%;
         background-color: #f4f4f9;
         padding: 20px;
+        text-align: left;
+        justify-content: center; 
       }
       /* Main column */
       .main {
@@ -30,6 +32,23 @@ layout: page
         background-color: white;
         padding: 20px;
       }
+          /* Adjusting margins for h1, h2, and p to reduce space */
+    h1 {
+      font-size: 200%;
+      color: orange;
+      margin-bottom: 5px; /* Reduced space */
+    }
+    h2 {
+      font-size: 400%;
+      color: white;
+      margin-bottom: 10px; /* Reduced space */
+    }
+    p {
+      color: white;
+      margin-bottom: 10px; /* Reduced space */
+      line-height: 1.2; /* Reduced line spacing */
+    }
+      /* Fake image, just for this example */
       /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
       @media screen and (max-width: 700px) {
         .row, .navbar {   

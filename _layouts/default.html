@@ -27,10 +27,16 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
+
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  <a href="{{ "/" | relative_url }}" class="title">
+    <strong>
+      <span style="color: orange;">M</span>ICHAEL <span style="color: orange;">B</span>IERI
+    </strong>
+  </a>
   {% include menu.html menu=pages %}
 </header>
+
 
 {{ content }}
 

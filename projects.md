@@ -33,9 +33,6 @@ layout: page
             line-height: 1;
             margin-bottom: -10px;
         }
-        body {
-            font-family: Arial, sans-serif;
-        }
     </style>
 </head>
 <body>

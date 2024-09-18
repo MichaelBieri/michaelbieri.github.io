@@ -8,7 +8,7 @@ layout: page
       background-color: #f4f4f9;
       color: #333;
     }
-        .container {
+    .container {
       max-width: 939.062px;
       background: #fff;
       padding: 20px;

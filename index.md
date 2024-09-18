@@ -48,7 +48,7 @@ layout: page
       border: 8px solid orange;
     }
     img {
-      max-width: 70%;
+      max-width: 100%;
       height: auto;
     }
     /* Adjusting margins for h1, h2, and p to reduce space */

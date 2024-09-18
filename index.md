@@ -11,7 +11,6 @@ layout: page
     body {
       background-color: #f4f4f9;
       color: #333;
-      margin: 0;
     }
     /* Column container */
     .row {  

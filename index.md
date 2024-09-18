@@ -29,7 +29,6 @@ layout: page
       padding: 10px;
       display: flex;
       flex-direction: column;
-      justify-content: center;
     }
     /* Main column */
     .main {
@@ -54,7 +53,7 @@ layout: page
       margin-bottom: 0px;
     }
     p {
-      margin-bottom: -10px;
+      margin-bottom: 20px;
       color: white;
       line-height: 1.6;
     }

@@ -10,8 +10,6 @@ title: "Blog"
       color: #333;
     }
     .container {
-      margin-top: 20px;
-      margin-bottom: 20px;
       max-width: 887.594px;
       background: #fff;
       padding: 20px;

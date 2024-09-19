@@ -66,7 +66,7 @@ layout: page
             <p>Realisation of the entire project using the waterfall method. Requirements analysis, concept development, prototype realisation, and documentation.</p>
             <div class="section-title">Skills gained/Experience and how I mastered it:</div>
             <ul>
-                <li>Requirements engineering: Collected innovative ideas for a new type of water-bearing washbasin product without a tap.</li>
+                <li>Requirements engineering: The biggest challenge was designing a solution that allowed users to operate the washbasin intuitively, without instructions. To address this, I began by developing user stories and use cases through brainstorming and workshops. I applied methods like SWOT analysis, gap analysis, and flowcharts, and modeled the process with use case diagrams. Using the MoSCoW method and FMEA, I evaluated and prioritized solutions, which were then documented in a product backlog.</li>
                 <li>Prototyping: Created a valuable prototype with Arduino for proof-of-concept.</li>
                 <li>Sensor technologies: Combined several sensor technologies (sensor fusion) for intuitive use.</li>
             </ul>

@@ -45,11 +45,11 @@ layout: page
             <p><a href="https://www.roca.com/connect">ROCA connect</a> and <a href="https://www.laufen.ch/smart">LAUFEN smart</a></p>
             <div class="section-title">My scope of work/tasks in the project:</div>
             <p>Collecting the requirements of product owners, managing the project for the brand LAUFEN, creating APIs, training the trainee team, answering customer enquiries, creating reports for management and product owners, and creating documentation/manuals and certification.</p>
-            <div class="section-title">Skills gained:</div>
+            <div class="section-title">Skills gained/Experience and how I mastered it:</div>
             <ul>
+                <li>Communication: The biggest challenge was to develop a simple system that integrates into existing concepts and also enables non-technicians/end customers to easily control and analyse their IoT devices. This required a comprehensive inventory, requirements analysis and good relationships.</li>
                 <li>Microsoft DevOps: Rapid agile project progress through continuous backlog management, resulting in high-quality software and hardware via manual tests, A/B testing, and functional tests.</li>
                 <li>Prototyping: Created valuable prototypes with Arduino for proof-of-concepts.</li>
-                <li>Communication: Strengthened relationships with suppliers, customers, and internal product owners.</li>
                 <li>Data pipeline: Developed an industry-leading IoT architecture using Azure Services.</li>
                 <li>Data visualization and user interfaces: Created user-friendly interfaces for data visualization and device control.</li>
                 <li>Requirements engineering: Developed end-to-end solutions that met all approval criteria and requirements for the European Union.</li>
@@ -64,7 +64,7 @@ layout: page
             <p>Conception and realisation of a prototype for a touchless ceramic washbasin without a manual water tap.</p>
             <div class="section-title">My scope of work/tasks in the project:</div>
             <p>Realisation of the entire project using the waterfall method. Requirements analysis, concept development, prototype realisation, and documentation.</p>
-            <div class="section-title">Skills gained:</div>
+            <div class="section-title">Skills gained/Experience and how I mastered it:</div>
             <ul>
                 <li>Requirements engineering: Collected innovative ideas for a new type of water-bearing washbasin product without a tap.</li>
                 <li>Prototyping: Created a valuable prototype with Arduino for proof-of-concept.</li>
@@ -80,10 +80,10 @@ layout: page
             <p>Planning and design of building automation, HVAC conception, and BIM drawing of the Uptown Basel.</p>
             <div class="section-title">My scope of work/tasks in the project:</div>
             <p>AutoCAD Revit, Dalux, control technology, coordination, BIM standards, and guidelines.</p>
-            <div class="section-title">Skills gained:</div>
+            <div class="section-title">Skills gained/Experience and how I mastered it:</div>
             <ul>
                 <li>Engineering: Planned and calculated HVAC systems (heating and air) for Building 1.</li>
-                <li>Modelling: Created coordinated and forward-looking construction models using BIM Autodesk Revit, integrated with Dalux.</li>
+                <li>Modelling: The biggest challenge was to combine the different areas into one model. Created coordinated and forward-looking construction models using BIM Autodesk Revit, integrated with Dalux. To reduce the complexity, we applied the top-down approach and analysed the individual areas and then found a common solution.</li>
                 <li>Building automation: Developed schematics for the building automation system and integrated it into the BIM model.</li>
             </ul>
         </div>

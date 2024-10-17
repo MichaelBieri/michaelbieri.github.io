@@ -76,7 +76,7 @@ layout: page
     <p>From Switzerland, with a broad interest in technology. My journey began with a WordPress, and through the world of Arduino, I know working in digitalisation and data topics. In my professional career, I have six years of experience as a requirements engineer and project manager in electronic and building technology. Alongside my passion for technology, I also enjoy music 🎺 and sports 🧭🚲.</p>
   </div>
   <div class="main">
-      <img src="/assets/images/MichaelBieri.jpg" alt="Michael Bieri">
+      <img src="/assets/images/MichaelBieri.jpeg" alt="Michael Bieri">
   </div>
 </div>
 </body>

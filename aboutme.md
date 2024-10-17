@@ -67,6 +67,7 @@ layout: page
       <li>💻 Computer: Basics in Arduino, networks, protocols, Git and industry automation</li>
       <li>☁️ Cloud: Basics Azure, MongoDB, S3, GCP and Docker</li>
       <li>💈 Web: Basics in tools like Figma, Miro and frameworks React, Django, Bootstrap</li>
+      <li>📜 Project Management: Basics in tools like Confluence, Jira and MS DevOps, bridge knowledge in agile project management, SCRUM and waterfall</li>
     </ul>
     <h2>🌴 Leisure Time</h2>
     <p class="leisure-time">Alongside my tech pursuits, I also enjoy topics related to 💡energy and 🌱environment. I play 🎺 and I like to do sports 🧭 🚲. Currently, I’m working on a Flutter-APP and projects in the world of AI.</p>

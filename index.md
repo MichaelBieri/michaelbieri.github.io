@@ -7,7 +7,7 @@ layout: page
     * {
       box-sizing: border-box;
     }
-    /* Style the body */
+    /* Body */
     body {
       background-color: #f4f4f9;
     }

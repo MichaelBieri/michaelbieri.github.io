@@ -33,14 +33,16 @@ layout: page
     }
     /* Main column */
     .main {
-      flex: 45%;
+      flex: 55%;
       background-color: #f4f4f9;
-      padding: 0px;
+      padding: 5px;
       display: flex;
+      justify-content: flex-end; /* Bild nach rechts ausrichten */
+      align-items: center;      /* Vertikale Zentrierung des Bildes */
     }
     img {
       max-width: 70%;
-      max-height: 70%;
+      max-height: 65%;
       border: 8px solid orange;
     }
     h1 {

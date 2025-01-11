@@ -63,7 +63,7 @@ layout: page
       <li>📊 Data Analysis & Visualization: Basics in Pandas, NumPy, Matplotlib, ggplot2, plotly and Power Platform</li>
       <li>🧮 Calculator Skills: Hypothesis tests, A/B tests, distributions, data cleaning & pre-processing, ARIMA and SARIMA</li>
       <li>🙌 Big Data: Basics in Databricks, Hadoop, Spark and Scikit-Learn</li>
-      <li>🦾 Machine Learning: Time series analysis and frameworks like TensorFlow / Keras</li>
+      <li>🦾 Machine Learning: Time series analysis and frameworks like TensorFlow/Keras</li>
       <li>💻 Computer: Basics in Arduino, networks, protocols, Git and industry automation</li>
       <li>☁️ Cloud: Basics Azure, MongoDB, S3, GCP and Docker</li>
       <li>💈 Web: Basics in tools like Figma, Miro and frameworks React, Django, Bootstrap</li>

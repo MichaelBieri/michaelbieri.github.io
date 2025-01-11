@@ -33,7 +33,7 @@ layout: page
     }
     /* Main column */
     .main {
-      flex: 55%;
+      flex: 45%;
       background-color: #f4f4f9;
       padding: 5px;
       display: flex;

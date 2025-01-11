@@ -39,8 +39,8 @@ layout: page
       display: flex;
     }
     img {
-      max-width: 60%;
-      max-height: auto;
+      max-width: 70%;
+      max-height: 70%;
       border: 8px solid orange;
     }
     h1 {

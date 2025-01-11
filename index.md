@@ -41,10 +41,10 @@ layout: page
       align-items: center; /* Inhalt vertikal zentrieren */
     }
     img {
-      max-width: 70%;
-      max-height: 65%;
+      max-width: 75%;
+      max-height: 70%;
       border: 8px solid orange;
-      margin-left: -10px; /* Verschiebt das Bild um 10px nach links */
+      margin-left: -30px; /* Verschiebt das Bild um 10px nach links */
     }
     h1 {
       font-size: 200%;

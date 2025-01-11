@@ -37,7 +37,9 @@ layout: page
       background-color: #f4f4f9;
       padding: 5px;
       display: flex;
-      justify-content: center; /* Bild nach rechts ausrichten */
+      justify-content: center; /* Bild horizontal zentrieren */
+      align-items: center; /* Inhalt vertikal zentrieren */
+      transform: translateX(-10px); /* Inhalt 10px nach links verschieben */
     }
     img {
       max-width: 70%;

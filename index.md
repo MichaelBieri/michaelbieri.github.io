@@ -39,7 +39,6 @@ layout: page
       display: flex;
       justify-content: center; /* Bild horizontal zentrieren */
       align-items: center; /* Inhalt vertikal zentrieren */
-      transform: translateX(-30px); /* Inhalt 10px nach links verschieben */
     }
     img {
       max-width: 70%;

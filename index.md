@@ -37,7 +37,7 @@ layout: page
       background-color: #f4f4f9;
       padding: 5px;
       display: flex;
-      justify-content: flex-end; /* Bild nach rechts ausrichten */
+      justify-content: center; /* Bild nach rechts ausrichten */
     }
     img {
       max-width: 70%;

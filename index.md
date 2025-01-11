@@ -44,6 +44,7 @@ layout: page
       max-width: 70%;
       max-height: 65%;
       border: 8px solid orange;
+      margin-left: -10px; /* Verschiebt das Bild um 10px nach links */
     }
     h1 {
       font-size: 200%;
